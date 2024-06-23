@@ -1,2 +1,2 @@
-# Z0MBI3K1NG.exe-PACK
-9th malware is ESCALATORS.exe
+# Z0MBI3K1NG
+C++ skidded GDI trojan by Hugopako
